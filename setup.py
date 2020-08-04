@@ -51,6 +51,8 @@ setup(
     install_requires=[
         'pandas>=1.0.5',
         'numpy>=1.14.2',
-        'matplotlib>=3.2.2'],
+        'matplotlib>=3.2.2',
+        'h5py>=2.10.0',
+        'py3helpers>=0.4.2'],
     setup_requires=['Cython>=0.29.21']
 )
