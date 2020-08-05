@@ -4,3 +4,4 @@ dist
 src/rna_modification_detection.egg-info
 tests/test_files/test_18S_full_length/ivt_fast5/1000_ivt_fast5
 tests/test_files/test_18S_full_length/nop58_fast5/1000_nop58_fast5
+notebooks/.ipynb_checkpoints
