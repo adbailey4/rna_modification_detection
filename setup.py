@@ -53,6 +53,6 @@ setup(
         'numpy>=1.14.2',
         'matplotlib>=3.2.2',
         'h5py>=2.10.0',
-        'py3helpers>=0.4.2'],
+        'py3helpers[seq_tools]>=0.4.2'],
     setup_requires=['Cython>=0.29.21']
 )
