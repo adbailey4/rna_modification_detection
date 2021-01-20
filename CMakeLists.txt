@@ -1,1 +1,1 @@
-project(rna_modification_detection)
+project(rna_mod)
